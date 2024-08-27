@@ -33,7 +33,7 @@ Feel free to explore, modify, and use this project as a starting point for your 
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/simple-omelette-recipe-page-with-tailwind-css-8PYNOVygiw](https://www.frontendmentor.io/solutions/simple-omelette-recipe-page-with-tailwind-css-8PYNOVygiw)
-- Live Site URL: [https://sultanfarrel.github.io/recipe-page-main/]([https://your-live-site-url.com](https://sultanfarrel.github.io/recipe-page-main/))
+- Live Site URL: [https://sultanfarrel.github.io/recipe-page-main/](https://your-live-site-url.com](https://sultanfarrel.github.io/recipe-page-main/))
 
 ### Built with
 
